@@ -16,6 +16,11 @@ TO-DO: Add docker compose, add redis logic to work with pool and caching mechani
 
 Websocket url: ws://localhost:8080/ws<br>
 Simple UI: http://localhost:8080/index.html<br>
+JSON example to paste into UI: {
+  "playerName": "Alice",
+  "number": "10",
+  "amount": "100"
+}
 
 
 
